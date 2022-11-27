@@ -6,25 +6,19 @@ body{
 #heading{
     background-color: beige;
     font-size: 30px;
-    bottom: 500px;
     font-family:'Times New Roman', Times, serif;
-    padding-top: 10px;
+    margin: 0;
     color: rgba(73, 23, 23, 0.514);
-    width: fit-content;
 }
 #number_of_objects,#status{
     background-color: rgb(194, 159, 84);
-    font-size: 30px;
-    bottom: 500px;
+    font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding-top: 10px;
     color: rgba(73, 23, 23, 0.514);
-    width: fit-content;
 }
 canvas{
-    margin: 80px;
     box-shadow:5px 5px 5px sienna ;
-    border: 2px solid burlywood;
+    border: 2px solid rgb(88, 51, 1);
     
 }
 #button_start{
